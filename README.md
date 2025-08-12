@@ -16,8 +16,14 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhinav-nayak/level-up-guide/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhinav-nayak/level-up-guide/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
