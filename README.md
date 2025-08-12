@@ -1,6 +1,6 @@
-# 🚀 Level Up Guide
+# 🧠 DSA Level-Up Guide
 
-A personal knowledge base to grow as a software engineer — covering foundational computer science concepts, system design, backend engineering, and real-world architectural insights.
+A personal knowledge base focused on **data structures and algorithms** — covering problem-solving patterns, time-space trade-offs, and curated practice across key topics.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
