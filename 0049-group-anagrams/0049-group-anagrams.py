@@ -14,10 +14,9 @@ class Solution:
             # group anagrams under one key
             hashMap[tuple(count)].append(s)
 
-        # frame the result data
-        result = []
-        for anagrams in hashMap.values():
-            result.append(anagrams)
-        
-        return result
-            
+        # return the data
+        return list(hashMap.values())
+
+# Time complexity: O(n*k) 
+# Space complexity: O(n*k)
+# where 'n' is total number of strings and 'k' is maximum length of a single string
