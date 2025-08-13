@@ -15,7 +15,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0049-group-anagrams](https://github.com/abhinav-nayak/level-up-guide/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhinav-nayak/level-up-guide/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
-| [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master0271-encode-and-decode-strings) |
+| [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master/0271-encode-and-decode-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,7 +36,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | ------- |
 | [0049-group-anagrams](https://github.com/abhinav-nayak/level-up-guide/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
-| [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master0271-encode-and-decode-strings) |
+| [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master/0271-encode-and-decode-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
