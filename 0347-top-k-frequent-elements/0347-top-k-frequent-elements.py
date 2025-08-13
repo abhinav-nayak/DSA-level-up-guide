@@ -23,3 +23,6 @@ class Solution:
                     return result
         
         return result
+
+# Time complexity: O(n)
+# Space complexity: O(n)
