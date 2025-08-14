@@ -37,4 +37,5 @@ class Solution:
     
         return True
 
-        
+# Time complexity: O(n^2) -> as we are iterating through all 9x9 elements
+# Space complexity: O(n) -> at any point in time, there is only one hash set of size 9
