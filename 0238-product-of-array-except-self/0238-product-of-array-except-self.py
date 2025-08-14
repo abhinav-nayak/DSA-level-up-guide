@@ -45,3 +45,6 @@ class Solution:
             rightProduct *= nums[i]
 
         return result
+
+        # Time complexity: O(n)
+        # Space complexity: O(1) (excluding result array)
