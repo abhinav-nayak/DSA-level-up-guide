@@ -20,6 +20,7 @@ class Solution:
                     i+=1
                 else:
                     # found a triplet
+                    # array is sorted and from logic above, k<i<j. S, nums[k]<nums[i]<nums[j]
                     resultSet.add((nums[k], nums[i], nums[j]))
                     i+=1
 
