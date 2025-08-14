@@ -22,4 +22,6 @@ class Solution:
             result.append(left[i]*right[i])
         
         return result
-        
+
+# Time complexity: O(n)
+# Space complexity: O(n)
