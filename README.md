@@ -40,6 +40,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhinav-nayak/level-up-guide/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/abhinav-nayak/level-up-guide/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master/0271-encode-and-decode-strings) |
 ## Divide and Conquer
@@ -74,4 +75,8 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav-nayak/level-up-guide/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/abhinav-nayak/level-up-guide/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
