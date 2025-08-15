@@ -1,6 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        # This feels more like a two pointer approach than sliding window
+        # In reality this is a two pointer problem than sliding window
 
         maxProfit=0
         if len(prices)==1:
