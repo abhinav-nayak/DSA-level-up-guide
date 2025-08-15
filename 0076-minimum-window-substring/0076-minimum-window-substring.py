@@ -48,3 +48,7 @@ class Solution:
             return ""
         
         return s[lFinal:rFinal]
+
+# Time complexity: O(n)
+# Space complexity: O(m)
+# where n is lenght of string s and m is total number of unique characters in s and t
