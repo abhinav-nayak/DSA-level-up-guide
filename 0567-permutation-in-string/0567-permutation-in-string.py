@@ -1,6 +1,7 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
 
+        # corner case
         if len(s1)>len(s2):
             return False
 
@@ -42,4 +43,6 @@ class Solution:
             l+=1
 
         return letterCountMatch==26
- 
+
+# Time complexity: O(n)
+# Space complexity: O(1)
