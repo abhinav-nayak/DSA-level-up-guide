@@ -12,18 +12,17 @@ class Solution:
         #iterate over the input temperatures
         answer=[0]*len(temperatures)
         for i, temp in enumerate(temperatures):
-            '''
-            if len(stack)==0 or temp<=stack[-1][1]:
-                stack.append(tuple(i, temp))
-            else:
-            '''
             # keep popping till the temperature is more than top of the stack
             while stack and temp>stack[-1][1]:
                 t=stack.pop()
                 answer[t[0]]=i-t[0]
+            
+            # Append the temp to stack
             stack.append((i, temp))
         
         # Remaining elements in the stack are inincreasong order such that there are no warmer days.
         # Hence, default value of 0 is valid
         return answer
-        
+
+# Time complexity: O(n)
+# Space complexity: O(n)
