@@ -19,12 +19,17 @@ class Solution:
             q.append(r)
 
             if r-l+1==k:
-                # we have one window, update output
+                # window is valid, update output
                 output.append(nums[q[0]])
                 l+=1
+
+                # if window has crossed element at q[0], pop from left side
                 if l>q[0]:
                     q.popleft()
 
             r+=1
 
         return output
+
+# Time complexity: O(n)
+# Space complexity: O(n)
