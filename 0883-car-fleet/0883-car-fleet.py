@@ -27,4 +27,4 @@ class Solution:
         return len(stack)
 
 # Time complexity: O(nlogn)
-# SPace complexity: O(n)
+# Space complexity: O(n)
