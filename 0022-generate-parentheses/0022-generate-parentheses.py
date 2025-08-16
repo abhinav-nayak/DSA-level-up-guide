@@ -21,4 +21,9 @@ class Solution:
         # call recursive method
         generate("", 0, 0)
         return resultList
-        
+
+# Time complexity: O(4^n / sqrt(n))
+#                  For n nodes, the number of binary trees that can be formed is given by a formula #                  called Catalan number:
+#                  C=(2n)Cn/(n+1)
+#                  This number grows like: (4^n)/(n^1.5)
+# Space complexity: O(n) - for recursion stack excluding reuslt list
