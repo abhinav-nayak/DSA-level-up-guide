@@ -53,6 +53,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-nayak/level-up-guide/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/abhinav-nayak/level-up-guide/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhinav-nayak/level-up-guide/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/abhinav-nayak/level-up-guide/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhinav-nayak/level-up-guide/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abhinav-nayak/level-up-guide/tree/master/0125-valid-palindrome) |
@@ -113,6 +114,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhinav-nayak/level-up-guide/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhinav-nayak/level-up-guide/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-nayak/level-up-guide/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
@@ -150,4 +152,8 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinav-nayak/level-up-guide/tree/master/0150-evaluate-reverse-polish-notation) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/abhinav-nayak/level-up-guide/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
