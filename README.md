@@ -119,6 +119,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhinav-nayak/level-up-guide/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhinav-nayak/level-up-guide/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/abhinav-nayak/level-up-guide/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -139,4 +140,8 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhinav-nayak/level-up-guide/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
