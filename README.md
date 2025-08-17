@@ -48,6 +48,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhinav-nayak/level-up-guide/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhinav-nayak/level-up-guide/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/abhinav-nayak/level-up-guide/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhinav-nayak/level-up-guide/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhinav-nayak/level-up-guide/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/abhinav-nayak/level-up-guide/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-nayak/level-up-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhinav-nayak/level-up-guide/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/abhinav-nayak/level-up-guide/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +172,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhinav-nayak/level-up-guide/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/abhinav-nayak/level-up-guide/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
