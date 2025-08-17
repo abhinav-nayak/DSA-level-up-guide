@@ -28,6 +28,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/abhinav-nayak/level-up-guide/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/abhinav-nayak/level-up-guide/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-nayak/level-up-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
