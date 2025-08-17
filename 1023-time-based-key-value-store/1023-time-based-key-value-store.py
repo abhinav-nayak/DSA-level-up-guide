@@ -44,3 +44,6 @@ class TimeMap:
 # obj = TimeMap()
 # obj.set(key,value,timestamp)
 # param_2 = obj.get(key,timestamp)
+
+# Time complexity: O(1) for set(), O(log n) for get()
+# Space complexity: O(m*n) where m is total no. of keys and n is total number of values per key
