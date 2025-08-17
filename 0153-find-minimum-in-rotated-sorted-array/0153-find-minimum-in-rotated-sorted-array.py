@@ -7,7 +7,7 @@ class Solution:
         l,r = 0,len(nums)-1
         while l<=r:
             # case when the data is already sorted
-            if nums[l]<nums[r]or l==r:
+            if nums[l]<nums[r] or l==r:
                 minElement=nums[l]
                 break
 
