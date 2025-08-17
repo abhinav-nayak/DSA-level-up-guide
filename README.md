@@ -12,6 +12,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinav-nayak/level-up-guide/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/abhinav-nayak/level-up-guide/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinav-nayak/level-up-guide/tree/master/0033-search-in-rotated-sorted-array) |
@@ -75,6 +76,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinav-nayak/level-up-guide/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -118,6 +120,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinav-nayak/level-up-guide/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinav-nayak/level-up-guide/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav-nayak/level-up-guide/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav-nayak/level-up-guide/tree/master/0153-find-minimum-in-rotated-sorted-array) |
