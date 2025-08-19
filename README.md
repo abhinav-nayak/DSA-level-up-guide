@@ -184,4 +184,12 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhinav-nayak/level-up-guide/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhinav-nayak/level-up-guide/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhinav-nayak/level-up-guide/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
