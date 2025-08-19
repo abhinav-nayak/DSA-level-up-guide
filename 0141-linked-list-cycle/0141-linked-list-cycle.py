@@ -6,9 +6,6 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        if not head:
-            return False
-
         # fast-slow pointers approach can be used
         slow=head
         fast=head
