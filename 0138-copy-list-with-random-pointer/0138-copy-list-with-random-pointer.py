@@ -25,7 +25,7 @@ class Solution:
             curr=curr.next
         prev.next=None
 
-        # Pass 2: using hash map to set random pointers of new linked list
+        # Pass 2: using hash map, set random pointers of new linked list
         while head:
             oldToNewNodeMap[head].random= oldToNewNodeMap[head.random]
             head=head.next
