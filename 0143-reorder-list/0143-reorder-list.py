@@ -9,7 +9,7 @@ class Solution:
         Do not return anything, modify head in-place instead.
         """
         if not head.next:
-            return head
+            return
 
         # Even if it is not explicitly mentioned to use linked list, note that lot of elements are
         # getting adjusted i.e., position changed. This is easier using linked list than arrays as
