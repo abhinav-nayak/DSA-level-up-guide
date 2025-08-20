@@ -11,6 +11,10 @@ class Solution:
         if not head.next:
             return head
 
+        # Even if it is not explicitly mentioned to use linked list, note that lot of elements are
+        # getting adjusted i.e., position changed. This is easier using linked list than arrays as
+        # changing pointers is easy than shifting array values.
+
         # Step 1: Find the half point of the linked list
         # Step 2: Reverse the second half
         # Step 3: Pick element from first half and second half alternatively
