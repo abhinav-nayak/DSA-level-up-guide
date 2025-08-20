@@ -50,3 +50,6 @@ class Solution:
         # incase of list of odd length, second half might still have elements
         if prev:
             lastModified2.next=prev
+
+# Time complexity: O(n)
+# Space complexity: O(1)
