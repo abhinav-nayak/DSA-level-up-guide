@@ -36,4 +36,7 @@ class Solution:
             curr=newNode
 
         return dummyNewHead.next
-        
+
+# Time complexity: O(m+n)
+# Space complexity: O(1) for extra space, O(max(m, n)) for output list
+# where m is length of l1 and n is length of l2
