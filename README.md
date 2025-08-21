@@ -30,6 +30,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0238-product-of-array-except-self](https://github.com/abhinav-nayak/level-up-guide/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master/0271-encode-and-decode-strings) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav-nayak/level-up-guide/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/abhinav-nayak/level-up-guide/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0792-binary-search) |
@@ -121,6 +122,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0141-linked-list-cycle](https://github.com/abhinav-nayak/level-up-guide/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhinav-nayak/level-up-guide/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-nayak/level-up-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav-nayak/level-up-guide/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/abhinav-nayak/level-up-guide/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -130,6 +132,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0074-search-a-2d-matrix](https://github.com/abhinav-nayak/level-up-guide/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav-nayak/level-up-guide/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-nayak/level-up-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav-nayak/level-up-guide/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhinav-nayak/level-up-guide/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/abhinav-nayak/level-up-guide/tree/master/1023-time-based-key-value-store) |
@@ -208,4 +211,8 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0021-merge-two-sorted-lists](https://github.com/abhinav-nayak/level-up-guide/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/abhinav-nayak/level-up-guide/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhinav-nayak/level-up-guide/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhinav-nayak/level-up-guide/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
