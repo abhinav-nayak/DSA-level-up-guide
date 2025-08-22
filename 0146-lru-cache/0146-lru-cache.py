@@ -1,6 +1,6 @@
-# define a doubly linked list node
 class Node:
-    def __init__(self, key, val, prev=None, nextt=None):
+    # define a doubly linked list node
+    def __init__(self, key, val, prev: Optional["Node"] =None, nextt=None):
         self.key=key
         self.val=val
         self.prev=prev
@@ -10,14 +10,15 @@ class LRUCache:
 
     def __init__(self, capacity: int):
         self.cap=capacity
-        # doubly linked list to hold value
+        # Clue that we can use linked list is there is frequent movement of elements based on usage
+        # doubly linked list to hold key, value
         # keep least recently used element at the head so that it can deleted in O(1)
         self.head,self.tail = None,None
         # map of key to linked list node that holds the value
         self.map={}
         
 
-    def _move_to_tail(self, node):
+    def _move_to_tail(self, node: Node):
         if node==self.tail:
             return
         
@@ -81,6 +82,7 @@ class LRUCache:
             self._insert_at_tail(key, value)
             self.map[key]=self.tail
 
+            # if capacity is reached, delete least used element
             if len(self.map)>self.cap:
                 del self.map[self.head.key]
                 self._remove_from_head()
@@ -91,3 +93,6 @@ class LRUCache:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
 # obj.put(key,value)
+
+# Time complexity: O(1) for put() and get()
+# Space complexity: O(n)
