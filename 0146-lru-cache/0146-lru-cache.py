@@ -1,6 +1,6 @@
 class Node:
     # define a doubly linked list node
-    def __init__(self, key, val, prev: Optional["Node"] =None, nextt=None):
+    def __init__(self, key, val, prev: Optional["Node"] =None, nextt: Optional["Node"]=None):
         self.key=key
         self.val=val
         self.prev=prev
@@ -18,7 +18,7 @@ class LRUCache:
         self.map={}
         
 
-    def _move_to_tail(self, node: Node):
+    def _move_to_tail(self, node: "Node"):
         if node==self.tail:
             return
         
@@ -39,7 +39,7 @@ class LRUCache:
         self.tail=node
     
 
-    def _insert_at_tail(self, key, val):
+    def _insert_at_tail(self, key: int, val: int):
         newNode=Node(key, val)
         if not self.head:
             self.head,self.tail = newNode,newNode
