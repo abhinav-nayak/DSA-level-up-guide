@@ -47,6 +47,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0128-longest-consecutive-sequence](https://github.com/abhinav-nayak/level-up-guide/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhinav-nayak/level-up-guide/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abhinav-nayak/level-up-guide/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abhinav-nayak/level-up-guide/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/abhinav-nayak/level-up-guide/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +184,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhinav-nayak/level-up-guide/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhinav-nayak/level-up-guide/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/abhinav-nayak/level-up-guide/tree/master/1023-time-based-key-value-store) |
 ## Math
@@ -203,6 +205,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0138-copy-list-with-random-pointer](https://github.com/abhinav-nayak/level-up-guide/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abhinav-nayak/level-up-guide/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhinav-nayak/level-up-guide/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/abhinav-nayak/level-up-guide/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhinav-nayak/level-up-guide/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -215,4 +218,8 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhinav-nayak/level-up-guide/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhinav-nayak/level-up-guide/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
