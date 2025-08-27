@@ -22,3 +22,6 @@ class Solution:
         root.right=leftNode
 
         return root
+
+# Time complexity: O(n)
+# Space complexity: O(n) - for recursion stack
