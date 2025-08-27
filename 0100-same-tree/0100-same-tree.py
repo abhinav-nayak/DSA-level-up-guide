@@ -26,4 +26,9 @@ class Solution:
         
         postOrderTraversal(p, q)
         return sameTree
-        
+
+# Time complexity: O(n)
+# Space complexity: O(h) - for recursion stack
+#                   Best case (balanced tree): O(log(n))
+#                   Worst case (degenerate tree): O(n)
+# Where n is the number of nodes in the tree and h is the height of the tree.
