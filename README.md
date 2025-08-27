@@ -225,6 +225,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
@@ -232,6 +233,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
@@ -239,11 +241,13 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
