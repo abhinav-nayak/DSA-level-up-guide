@@ -24,4 +24,7 @@ class Solution:
         return root
 
 # Time complexity: O(n)
-# Space complexity: O(n) - for recursion stack
+# Space complexity: O(h) - for recursion stack
+#                   Best case (balanced tree): O(log(n))
+#                   Worst case (degenerate tree): O(n)
+# Where n is the number of nodes in the tree and h is the height of the tree.
