@@ -6,8 +6,10 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        # we can traverse the root tree and at each node check if root tree and sub-tree as same
+        # we can traverse the root tree and at each node check if root tree and sub-tree are same.
         # this is extension of 'Same Tree' problem.
+
+        # Notice how both isSubtree and sameTree are implemented without using nonlocal variable.
 
         if not root:
             return False
@@ -26,4 +28,6 @@ class Solution:
         else:
             return False
 
-        
+# Time complexity: O(m∗n)
+# Space complexity: O(m+n)
+# Where m is the number of nodes in subRoot and n is the number of nodes in root.
