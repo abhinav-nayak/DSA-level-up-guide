@@ -230,6 +230,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0110-balanced-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0110-balanced-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,4 +254,13 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0110-balanced-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
