@@ -46,3 +46,7 @@ class Solution:
         if l2:
             prev.next=l2
         return dummyHead.next
+
+# Time complexity: O(n*logk)
+# Space complexity: O(log k)
+# where n is total number of nodes across k lists and k is the number of lists
