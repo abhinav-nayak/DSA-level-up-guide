@@ -32,7 +32,10 @@ class Solution:
                 prev.next=prev2
                 prev=nextPrev
             elif not lead:
+                # we are left with a sublist whose length is less than k, no need to reverse
                 prev.next=lag
 
         return dummyHead.next
-        
+
+# Time complexity: O(n)
+# Space complexity: O(1)
