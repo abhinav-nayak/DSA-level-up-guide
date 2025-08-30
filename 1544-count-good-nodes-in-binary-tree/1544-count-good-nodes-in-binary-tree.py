@@ -11,6 +11,7 @@ class Solution:
         # So, we can use post-order DFS traversal and store max value in each recursion stack.
 
         # nonlocal variable to store result
+        # we can return good node count from dfsTraversal method as well. This way we can avoid nonlocal variable.
         goodNodeCount=0
 
         def dfsTraversal(root: TreeNode, maxTillNow: int):
