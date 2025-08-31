@@ -40,4 +40,6 @@ class Solution:
             return root
         
         return dfs(0, len(inorder)-1)
-        
+
+# Time complexity: O(n)
+# Space complexity: O(n)
