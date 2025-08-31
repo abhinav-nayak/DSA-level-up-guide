@@ -7,7 +7,7 @@
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         # Inorder DFS traversal of Binary Search Tree will always be in sorted order.
-        # We can use iterative in-order tarversal approach to traverse the BST and return the
+        # We can use iterative in-order traversal approach to traverse the BST and return the
         # kth smallest element.
         
         # recursive method using in-build recursion stack.
