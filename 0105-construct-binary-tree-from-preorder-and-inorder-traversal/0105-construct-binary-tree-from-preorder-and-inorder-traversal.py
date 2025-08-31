@@ -18,25 +18,26 @@ class Solution:
         hashMap = dict()
         for i, n in enumerate(inorder):
             hashMap[n] = i
+
+        # Index for given preorder traversal
+        self.preorderIndex = 0
         
-        def dfs(preorder: List[int], inorderLeft: int, inorderRight: int) -> Optional[TreeNode]:
-            if len(preorder) == 0:
+        def dfs(inorderLeft: int, inorderRight: int) -> Optional[TreeNode]:
+            if inorderLeft > inorderRight:
                 return None
 
             # Firstnode in preorder is root always
-            root = TreeNode(val=preorder[0])
-
-            if len(preorder) == 1:
-                return root
+            root = TreeNode(val=preorder[self.preorderIndex])
 
             # Find this node in inorder traversal, so that we can decide which nodes will be on left sub-tree and
             # which ones on the right sub-tree.
-            mid = hashMap[preorder[0]]
+            mid = hashMap[preorder[self.preorderIndex]]
 
-            preorderMid = mid-inorderLeft
-            root.left = dfs(preorder[1 : preorderMid+1], inorderLeft, mid-1)
-            root.right = dfs(preorder[preorderMid+1 : preorderMid+inorderRight-mid+1], mid+1, inorderRight)
+            self.preorderIndex += 1
+
+            root.left = dfs(inorderLeft, mid-1)
+            root.right = dfs(mid+1, inorderRight)
             return root
         
-        return dfs(preorder, 0, len(inorder)-1)
+        return dfs(0, len(inorder)-1)
         
