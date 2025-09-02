@@ -37,6 +37,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0792-binary-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/abhinav-nayak/level-up-guide/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abhinav-nayak/level-up-guide/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/abhinav-nayak/level-up-guide/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/abhinav-nayak/level-up-guide/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0023-merge-k-sorted-lists](https://github.com/abhinav-nayak/level-up-guide/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav-nayak/level-up-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +98,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0239-sliding-window-maximum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/abhinav-nayak/level-up-guide/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -108,6 +112,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,6 +209,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhinav-nayak/level-up-guide/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinav-nayak/level-up-guide/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -324,4 +330,8 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
