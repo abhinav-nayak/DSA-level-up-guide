@@ -93,6 +93,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0023-merge-k-sorted-lists](https://github.com/abhinav-nayak/level-up-guide/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0146-lru-cache](https://github.com/abhinav-nayak/level-up-guide/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhinav-nayak/level-up-guide/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/abhinav-nayak/level-up-guide/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -250,6 +252,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -294,6 +297,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -313,4 +317,9 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0098-validate-binary-search-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav-nayak/level-up-guide/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
