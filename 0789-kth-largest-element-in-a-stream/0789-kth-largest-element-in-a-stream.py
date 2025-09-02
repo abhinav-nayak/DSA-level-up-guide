@@ -20,6 +20,10 @@ class KthLargest:
         return self.minHeap[0]
 
 
+# Time complexity: O(n*log n) for constructor
+#                  O(log k) for every add function call
+# Space complexity: O(k)
+
 # Your KthLargest object will be instantiated and called as such:
 # obj = KthLargest(k, nums)
 # param_1 = obj.add(val)
