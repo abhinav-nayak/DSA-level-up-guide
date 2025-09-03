@@ -60,7 +60,7 @@ class Solution:
 # Space complexity: O(n)
         '''
 
-        # The following approach works, but one test case is exceeding time limit, maybe because of worst case time 
+        # Quick select approach (above) works, but one test case is exceeding time limit, maybe because of worst case time 
         # complexity of O(n^2). hence, solving the same using minheap
         minHeap = []
 
