@@ -1,4 +1,4 @@
-from collections import defaultdict, deque
+from collections import deque
 import heapq
 
 class Solution:
@@ -16,15 +16,13 @@ class Solution:
         # We do this until both heap and queue are empty.
 
         # create hash map to count freq of each task
-        hashMap = defaultdict(int)
+        hashMap = {}
         for task in tasks:
-            hashMap[ord(task)-ord('A')] += 1
+            hashMap[ord(task)-ord('A')] = hashMap.get(ord(task)-ord('A'), 0) + 1
         
         # create max heap, so that we can find the task with max frequency in every iteration
-        maxHeap = []
-        for i in range(0, 26):
-            if hashMap[i]>0:
-                heapq.heappush(maxHeap, hashMap[i]*-1)
+        maxHeap = [-count for count in hashMap.values()]
+        heapq.heapify(maxHeap)
         
         # create a queue to hold task in their cool down period
         q = deque()
