@@ -36,11 +36,16 @@ class Solution:
                 taskFreq, time = q.popleft()
                 heapq.heappush(maxHeap, taskFreq)
             if maxHeap:
+                # execute a task with most freq
                 taskFreq = heapq.heappop(maxHeap)
-                taskFreq += 1 # execute it once. Since it is -ve, we add 1.
+                taskFreq += 1 # Since it is -ve, we add 1.
                 if taskFreq < 0:
+                    # if that particular task is not completely finished, enqueue it
                     q.append((taskFreq, t+n+1))
             t += 1
             # If it did not enter both the above if condition indiactes it is an idle cycle
         
         return t
+
+# Time complexity: O(m) , where m is the total number of tasks
+# Space complexity: O(1) , O(26)=O(1)
