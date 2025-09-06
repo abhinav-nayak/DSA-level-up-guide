@@ -58,6 +58,12 @@ class Twitter:
             self.user_following_map[followerId] = following
 
 
+# Time compelxity: O(n)
+# Space complexity: O(N∗m+N∗M+n)
+# where n is total number of tweets a user can get in his feed, m is the maximum number of tweets by any 
+# user (m can be at most 10), N is the total number of userIds and M is the maximum number of 
+# followees for any user.
+
 # Your Twitter object will be instantiated and called as such:
 # obj = Twitter()
 # obj.postTweet(userId,tweetId)
