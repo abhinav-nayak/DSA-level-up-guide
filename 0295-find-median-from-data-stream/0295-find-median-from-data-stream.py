@@ -19,11 +19,11 @@ class MedianFinder:
         # For first half use max heap and second half use min heap.
         
         # We can always insert element in first half. Then check:
-        # 1) if |size of first half - size of second half| <= 1 (this is the definition of median).
+        # 1) max of first half <= min of second half (to make sure data is sorted).
+        #    If not, move elements (heap pop and push).
+        # 2) if |size of first half - size of second half| <= 1 (this is the definition of median).
         #    If this condition is not satisfied, move elements from one half to another (heap pop and push).
-        # 2) Another condition is, max of first half <= min of second half (to make sure data is sorted).
-        #    If not, move elements (heap pop and push). Once both conditions are satisfied, we can 
-        # Calculate the median.
+        # Once both conditions are satisfied, we can calculate the median.
 
         # Step 1: Insert into first half
         heapq.heappush(self.max_heap, -1*num)
