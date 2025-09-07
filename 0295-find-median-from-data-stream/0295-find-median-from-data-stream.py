@@ -29,7 +29,7 @@ class MedianFinder:
         heapq.heappush(self.max_heap, -1*num)
 
         # Step 2: After insertion check if the 2 conditions are satisfied
-        while len(self.min_heap) > 0 and (-1*self.max_heap[0] > self.min_heap[0]):
+        if len(self.min_heap) > 0 and (-1*self.max_heap[0] > self.min_heap[0]):
             heapq.heappush(self.min_heap, -1*heapq.heappop(self.max_heap))
 
         max_heap_size = len(self.max_heap)
