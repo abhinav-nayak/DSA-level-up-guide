@@ -50,7 +50,9 @@ class MedianFinder:
         return median
        
         
-
+# Time complexity: O(log n) for every addNum function call
+#                  O(1) for every findMedian function call
+# Space complexity: O(n)
 
 # Your MedianFinder object will be instantiated and called as such:
 # obj = MedianFinder()
