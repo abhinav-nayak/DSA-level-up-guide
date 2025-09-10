@@ -23,4 +23,8 @@ class Solution:
         
         dfs(0, 0)
         return result
-        
+
+# Time complexity: O(2^(t/m))
+#                  Time complexity of binary tree is 2^height. Even if all elements are equal to minimum value, height=t/m
+# Space complexity: O(t/m)  for recursion stack (=height of tree)
+# where t is the given target and m is the minimum value in candidates list.
