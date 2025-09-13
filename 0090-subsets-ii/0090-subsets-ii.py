@@ -29,4 +29,6 @@ class Solution:
 
         dfs(0)
         return result
-        
+
+# Time complexity: O(n * 2^n) - 2^n possible solutions and for each solution shallow copy takes O(n) time.
+# Space complexity: O(n) - recursion stack
