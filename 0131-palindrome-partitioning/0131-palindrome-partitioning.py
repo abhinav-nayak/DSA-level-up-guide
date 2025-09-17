@@ -32,3 +32,7 @@ class Solution:
             i += 1
             j -= 1
         return palindrome
+
+# Time complexity: O(n * 2^(n)) - 2^(n) solutions and each solution will have n characters
+# Space complexity: O(n) - recursion stack
+#                 : O(n * 2^(n)) - for storing result
