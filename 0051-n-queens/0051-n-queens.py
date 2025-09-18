@@ -52,4 +52,8 @@ class Solution:
 
         dfs(0)
         return result
-        
+
+# Time complexity: O(n!)    - in row 0, queen can be placed at n positions, in row 1 queen can be placed in (n-1) positiosn as one 
+#                             column in made invalid by queen selection in row 2. For row 3, it becomes (n-2)
+#                             So, n * (n-1) * (n-2) * (n-3) so on = n!
+# Space complexity: O(n^2)  - each solution is O(n^2)
