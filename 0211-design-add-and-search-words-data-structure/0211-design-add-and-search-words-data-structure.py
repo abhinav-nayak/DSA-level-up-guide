@@ -49,6 +49,12 @@ class WordDictionary:
         
         return dfs(0, self.root)
 
+# Time complexity: O(n) - for addWord
+#                  O(n) - for search. Noemal search in trie: O(n). Backtracking: (no. of paths)^(no. of fields which have multiple paths)
+#                         Backtracking: (26)^(2) as we can have at most 2 "."
+#                         tiem complexity: O(n * 26^2) = O(n)
+# Space complexity : O(t+n) - number of trie nodes + recursion stack
+# where n is the length of the string and t is the total number of trie nodes created.
 
 # Your WordDictionary object will be instantiated and called as such:
 # obj = WordDictionary()
