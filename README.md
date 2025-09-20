@@ -97,6 +97,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0125-valid-palindrome](https://github.com/abhinav-nayak/level-up-guide/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/abhinav-nayak/level-up-guide/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhinav-nayak/level-up-guide/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -233,6 +234,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0146-lru-cache](https://github.com/abhinav-nayak/level-up-guide/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhinav-nayak/level-up-guide/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhinav-nayak/level-up-guide/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/abhinav-nayak/level-up-guide/tree/master/0355-design-twitter) |
@@ -318,6 +320,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0110-balanced-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/abhinav-nayak/level-up-guide/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhinav-nayak/level-up-guide/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav-nayak/level-up-guide/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -386,4 +389,5 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhinav-nayak/level-up-guide/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
