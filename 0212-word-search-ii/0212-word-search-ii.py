@@ -33,9 +33,7 @@ class Solution:
             # The same letter cell may not be used more than once in a word.
             if r<0 or r>=m or c<0 or c>=n or (r, c) in visited or board[r][c] not in current.children:
                 return
-            
 
-            
             if board[r][c] in current.children:
                 # mark as visited and move further in all directions
                 visited.add((r, c))
@@ -66,3 +64,8 @@ class Solution:
                 dfs(i, j, self.root)
 
         return self.result
+
+# Time complexity: O(m*n*4*3^(t-1) + s)
+# Space complexity: O(s)
+# Where m is the number of rows, n is the number of columns, t is the maximum length of any word in the array words and 
+# s is the sum of the lengths of all the words.
