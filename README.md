@@ -34,6 +34,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinav-nayak/level-up-guide/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav-nayak/level-up-guide/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-nayak/level-up-guide/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhinav-nayak/level-up-guide/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhinav-nayak/level-up-guide/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhinav-nayak/level-up-guide/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0131-palindrome-partitioning](https://github.com/abhinav-nayak/level-up-guide/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinav-nayak/level-up-guide/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/abhinav-nayak/level-up-guide/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/abhinav-nayak/level-up-guide/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -151,6 +153,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0036-valid-sudoku](https://github.com/abhinav-nayak/level-up-guide/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav-nayak/level-up-guide/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0212-word-search-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -259,6 +262,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0079-word-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhinav-nayak/level-up-guide/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -390,4 +394,5 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinav-nayak/level-up-guide/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
