@@ -25,24 +25,18 @@ class Solution:
             c: column number of current position in board
             current: current trie node in trie
             """
-            # print("current: end of word: ", current.end_of_word, ", index: ", current.index)
+            # Found a solution
             if current.end_of_word and current.index != -1:
-                print("Found a solution: ", words[current.index])
                 self.result.append(words[current.index])
                 current.index = -1
-                # return
 
-
-            # print("Entered DFS for, r: ", r, " c: ", c)
             # The same letter cell may not be used more than once in a word.
             if r<0 or r>=m or c<0 or c>=n or (r, c) in visited or board[r][c] not in current.children:
-                # print("Returning")
                 return
             
 
             
             if board[r][c] in current.children:
-                # print("Checking further")
                 # mark as visited and move further in all directions
                 visited.add((r, c))
                 dfs(r+1, c, current.children[board[r][c]])
@@ -61,8 +55,6 @@ class Solution:
                 curr = curr.children[w]
             curr.end_of_word = True
             curr.index = i
-            # print("----------------------------")
-            # print("Word: ", word, "end of word: ", curr.end_of_word)
 
         # Step 2: Iterate through all elements of the given board. If element is not already visited for that word  and it is there in
         # children of current node, then mark it as visited and move further. If not, backtrack and mark as unvisited and check if other 
