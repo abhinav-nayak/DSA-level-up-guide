@@ -34,4 +34,7 @@ class Solution:
                     self.island_count += 1
         
         return self.island_count
-        
+
+# Time complexity: O(m*n)
+# Space complexity: O(m*n)
+# where m is the number of rows and n is the number of columns in the grid.
