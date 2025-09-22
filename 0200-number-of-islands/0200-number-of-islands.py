@@ -1,0 +1,37 @@
+class Solution:
+    def numIslands(self, grid: List[List[str]]) -> int:
+        """
+        Total number of disconnected components are the total number of islands.
+        Definition of connected graph is we should be able to reach each element from every element. So, from one element '1' all the other 
+        1's we can visit will be one connected component (aka one island).
+        This is a kind of 'grid/ matrix problem with references with elements at top, bottom, left and right or connectivity across cells'.
+        This is a hint that graph can be used.
+        """
+        self.island_count = 0
+
+        rows, cols = len(grid), len(grid[0])
+        directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+
+        def dfs(r: int, c: int):
+            """
+            DFS graph traversal
+            """
+            # We can keep hash set to keep track of visited nodes. But, here once visited we will mark it as 0, avoiding hash set.
+            if r not in range(rows) or c not in range(cols) or grid[r][c] == "0":
+                return
+            
+            # Mark the element as visited and explore other paths.
+            grid[r][c] = "0"
+            for dr, dc in directions:
+                dfs(r+dr, c+dc)
+
+
+        # Iterate through all elements of the grid. Whenever you find one "1", start DFS search to cover all other connected 1's.
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == "1":
+                    dfs(i, j)
+                    self.island_count += 1
+        
+        return self.island_count
+        
