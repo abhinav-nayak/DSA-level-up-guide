@@ -43,6 +43,7 @@ class Solution:
             grid[x][y] = "0"
             q.append((x, y))
             while q:
+                # NOTE: if we change 'popleft' to just 'pop', this becomes iterative DFS implementation.
                 r, c= q.popleft()
                 for dr, dc in directions:
                     if r+dr in range(rows) and c+dc in range(cols) and grid[r+dr][c+dc] == "1":
