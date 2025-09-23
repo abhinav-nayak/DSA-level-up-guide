@@ -32,6 +32,6 @@ class Solution:
             for j in range(n):
                 if grid[i][j] == 1:
                     island_area = dfs(i, j, 0)
-                    max_area = island_area if island_area > max_area else max_area
+                    max_area = max(island_area, max_area)
         
         return max_area
