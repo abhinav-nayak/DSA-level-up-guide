@@ -35,3 +35,7 @@ class Solution:
                     max_area = max(island_area, max_area)
         
         return max_area
+
+# Time complexity: O(m*n)
+# Space complexity: O(m*n)
+# where m is the number of rows and n is the number of columns in the grid.
