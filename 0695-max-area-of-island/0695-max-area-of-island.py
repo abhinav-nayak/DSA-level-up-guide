@@ -21,6 +21,7 @@ class Solution:
                 return 0
             
             # Explore all other directions and calculate area
+            # Instead of using additional hash set to keep track of visited nodes, use grid itself as hash set by marking the visited node as 0.
             grid[r][c] = 0
             area += 1
             for dr, dc in directions:
