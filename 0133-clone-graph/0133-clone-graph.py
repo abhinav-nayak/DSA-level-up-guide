@@ -31,10 +31,8 @@ class Solution:
                 dfs(neighbor)
             
             # Update neighbours of new node
-            new_neighbors = []
             for neighbor in n.neighbors:
-                new_neighbors.append(old_new_node_map[neighbor])
-            new_n.neighbors = new_neighbors
+                new_n.neighbors.append(old_new_node_map[neighbor])
 
         dfs(node)
         return old_new_node_map.get(node)
