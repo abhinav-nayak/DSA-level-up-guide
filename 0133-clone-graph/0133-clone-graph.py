@@ -36,4 +36,7 @@ class Solution:
 
         dfs(node)
         return old_new_node_map.get(node)
-        
+
+# Time complexity: O(V+E) - DFS traversal visits V vertices. Then, for updating neighours of new node
+#                           we traverse E edges.
+# Space complexity: O(V)    - hash set, hash mpa and recursion stack all take O(V) space
