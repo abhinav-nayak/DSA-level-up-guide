@@ -9,6 +9,7 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        # To clone a graph we have to traverse the entire graph.
         # We can perform DFS traversal on the given graph and create new nodes with the values.
         # Also, we can have a hash map to map old node to corresponding new node.
         # Hash set will help here to detect already visited node during DFS traversal,
@@ -39,4 +40,4 @@ class Solution:
 
 # Time complexity: O(V+E) - DFS traversal visits V vertices. Then, for updating neighours of new node
 #                           we traverse E edges.
-# Space complexity: O(V)    - hash set, hash mpa and recursion stack all take O(V) space
+# Space complexity: O(V)    - hash set, hash map and recursion stack all take O(V) space
