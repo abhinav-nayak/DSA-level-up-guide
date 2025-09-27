@@ -159,6 +159,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0200-number-of-islands](https://github.com/abhinav-nayak/level-up-guide/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
+| [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 ## Union Find
 |  |
 | ------- |
@@ -355,6 +356,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 ## Binary Tree
 |  |
 | ------- |
@@ -412,4 +414,5 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhinav-nayak/level-up-guide/tree/master/0133-clone-graph) |
+| [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 <!---LeetCode Topics End-->
