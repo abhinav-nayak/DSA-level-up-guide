@@ -12,7 +12,7 @@ class Solution:
         and this is a hint that multi-source BFS can be used.
         """
         m, n = len(grid), len(grid[0])
-        self.no_of_oranges, self.no_of_rotten_oranges = 0, 0
+        self.fresh_oranges = 0
         directions = [(-1, 0), (1, 0), (0, 1), (0, -1)]
 
         def addNeighbor(nr: int, nc: int):
@@ -22,7 +22,7 @@ class Solution:
             # mark as visited and append to queue
             visited.add((nr, nc))
             q.append((nr, nc))
-            self.no_of_rotten_oranges += 1
+            self.fresh_oranges -= 1
 
         # initialize queue for BFS traversal
         q = deque()
@@ -33,30 +33,22 @@ class Solution:
         # For multi source BFS: add all sources to queue first
         for r in range(m):
             for c in range(n):
-                if grid[r][c] == 0:
-                    continue
+                if grid[r][c] == 1:
+                    self.fresh_oranges += 1
                 if grid[r][c] == 2:
                     q.append((r, c))
                     visited.add((r, c))
-                    self.no_of_rotten_oranges += 1
-                self.no_of_oranges += 1
         
         # perform BFS traversal
         t = 0
-        while q:
-            if self.no_of_rotten_oranges == self.no_of_oranges:
-                return t
-
+        while self.fresh_oranges > 0 and q:
             # 1 level = 1 minute. So, analyse level by level
             oranges_curr_level = len(q)
             for _ in range(oranges_curr_level):
                 r, c = q.popleft()
                 for dr, dc in directions:
                     addNeighbor(r+dr, c+dc)
-
             # after each level is processed, increment time
             t += 1
 
-        if self.no_of_rotten_oranges == self.no_of_oranges:
-            return t
-        return -1
+        return t if self.fresh_oranges==0 else -1
