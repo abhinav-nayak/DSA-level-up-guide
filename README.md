@@ -50,6 +50,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0883-car-fleet](https://github.com/abhinav-nayak/level-up-guide/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abhinav-nayak/level-up-guide/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/abhinav-nayak/level-up-guide/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/abhinav-nayak/level-up-guide/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -158,8 +159,9 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0079-word-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/abhinav-nayak/level-up-guide/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0212-word-search-ii) |
-| [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
 | [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
+| [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/abhinav-nayak/level-up-guide/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -353,10 +355,11 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0199-binary-tree-right-side-view](https://github.com/abhinav-nayak/level-up-guide/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abhinav-nayak/level-up-guide/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/abhinav-nayak/level-up-guide/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/1544-count-good-nodes-in-binary-tree) |
-| [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 ## Binary Tree
 |  |
 | ------- |
