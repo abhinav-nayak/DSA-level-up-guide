@@ -52,3 +52,7 @@ class Solution:
             t += 1
 
         return t if self.fresh_oranges==0 else -1
+
+# Time complexity: O(m*n)
+# Space complexity: O(m*n)
+# Where m is the number of rows and n is the number of columns in the grid.
