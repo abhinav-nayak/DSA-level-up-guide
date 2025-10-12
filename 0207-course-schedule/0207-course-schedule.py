@@ -32,7 +32,8 @@ class Solution:
                 if not dfs(dc):
                     return False
             visited.remove(c)
-            # all prerequisities of c can be completed, so we can mark adjacency_map as empty
+            # all prerequisities of c can be completed, so we can mark adjacency_map as empty.
+            # This is to prevent re-visit of already processed courses
             adjacency_map[c] = set()
             return True
 
@@ -42,3 +43,7 @@ class Solution:
                 return False
         
         return True
+
+# Time complexity: O(V+E)
+# Space complexity: O(V+E)
+# where V is the number of courses and E is the number of prerequisties
