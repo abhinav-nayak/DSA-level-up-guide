@@ -13,7 +13,7 @@ class Solution:
         Step 3: If an already visited element is encountered again, that indicates there is a loop
                 and courses cannot be completed. Once all prequisties of a course is completed, we can
                 tell the current course can also be completed.
-        Thi is nothing but 'topological sort' algorithm.
+        This is nothing but 'topological sort' algorithm.
         """
         result = set()
         result_list = []
