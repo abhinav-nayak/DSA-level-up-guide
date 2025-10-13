@@ -52,3 +52,7 @@ class Solution:
                 return []
         
         return result_list
+
+# Time complexity: O(V+E)
+# Space complexity: O(V+E)
+# where V is the number of courses and E is the number of prerequisites.
