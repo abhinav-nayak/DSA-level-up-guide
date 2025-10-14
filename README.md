@@ -415,4 +415,5 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | ------- |
 | [0133-clone-graph](https://github.com/abhinav-nayak/level-up-guide/tree/master/0133-clone-graph) |
 | [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
+| [0261-graph-valid-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
