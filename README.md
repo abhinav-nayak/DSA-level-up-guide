@@ -434,6 +434,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0210-course-schedule-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0210-course-schedule-ii) |
 | [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 | [0261-graph-valid-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/abhinav-nayak/level-up-guide/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
