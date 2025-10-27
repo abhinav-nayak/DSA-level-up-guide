@@ -60,4 +60,11 @@ class Solution:
             if not union(u, v):
                 # indicates a cycle is formed
                 return [u, v]
-        
+
+# Time complexity: O(V + (E * α(V)))
+#                  O(V) -> to form rank and parent array
+#                  O(E * α(V)) -> for each edge we perform union and find.
+#                  Total time complexity is almost same as O(V + E)
+# Space complexity: O(V)
+# Where V is the number of vertices and E is the number of edges in the graph. 
+# α() is used for amortized complexity.
