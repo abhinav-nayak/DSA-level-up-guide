@@ -57,4 +57,7 @@ class Solution:
             distance += 1
         
         return 0
-        
+
+# Time complexity: O((m ^ 2) * n)
+# Space complexity: O((m ^ 2) * n)
+# where n is the number of words and m is the length of the word.
