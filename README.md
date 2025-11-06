@@ -64,6 +64,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0049-group-anagrams](https://github.com/abhinav-nayak/level-up-guide/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhinav-nayak/level-up-guide/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav-nayak/level-up-guide/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/abhinav-nayak/level-up-guide/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav-nayak/level-up-guide/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/abhinav-nayak/level-up-guide/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhinav-nayak/level-up-guide/tree/master/0138-copy-list-with-random-pointer) |
@@ -102,6 +103,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0076-minimum-window-substring](https://github.com/abhinav-nayak/level-up-guide/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhinav-nayak/level-up-guide/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/abhinav-nayak/level-up-guide/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/abhinav-nayak/level-up-guide/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinav-nayak/level-up-guide/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -131,6 +133,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0347-top-k-frequent-elements](https://github.com/abhinav-nayak/level-up-guide/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/abhinav-nayak/level-up-guide/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/abhinav-nayak/level-up-guide/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/abhinav-nayak/level-up-guide/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhinav-nayak/level-up-guide/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/abhinav-nayak/level-up-guide/tree/master/1127-last-stone-weight) |
@@ -172,6 +175,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0128-longest-consecutive-sequence](https://github.com/abhinav-nayak/level-up-guide/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abhinav-nayak/level-up-guide/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhinav-nayak/level-up-guide/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/abhinav-nayak/level-up-guide/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
@@ -352,7 +356,9 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0417-pacific-atlantic-water-flow](https://github.com/abhinav-nayak/level-up-guide/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/abhinav-nayak/level-up-guide/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/abhinav-nayak/level-up-guide/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -360,6 +366,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0100-same-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinav-nayak/level-up-guide/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/abhinav-nayak/level-up-guide/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/abhinav-nayak/level-up-guide/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/abhinav-nayak/level-up-guide/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/abhinav-nayak/level-up-guide/tree/master/0199-binary-tree-right-side-view) |
@@ -370,7 +377,9 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhinav-nayak/level-up-guide/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/abhinav-nayak/level-up-guide/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/abhinav-nayak/level-up-guide/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/abhinav-nayak/level-up-guide/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -432,13 +441,19 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0133-clone-graph](https://github.com/abhinav-nayak/level-up-guide/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/abhinav-nayak/level-up-guide/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0210-course-schedule-ii) |
-| [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 | [0261-graph-valid-tree](https://github.com/abhinav-nayak/level-up-guide/tree/master/0261-graph-valid-tree) |
+| [0286-walls-and-gates](https://github.com/abhinav-nayak/level-up-guide/tree/master/0286-walls-and-gates) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/abhinav-nayak/level-up-guide/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/abhinav-nayak/level-up-guide/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/abhinav-nayak/level-up-guide/tree/master/0744-network-delay-time) |
 | [0332-reconstruct-itinerary](https://github.com/abhinav-nayak/level-up-guide/tree/master/0332-reconstruct-itinerary) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhinav-nayak/level-up-guide/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/abhinav-nayak/level-up-guide/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
