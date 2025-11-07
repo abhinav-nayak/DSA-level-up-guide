@@ -54,3 +54,7 @@ class Solution:
                     heapq.heappush(min_heap, (dist, neighbour))
         
         return min_cost
+
+# Time complexity: O(n^2 * log n)
+#                  Each node can be connected to n-1 other nodes. So, there can be n^2 items in #                  heap. Each heap operation is O(log n^2). And we might have to perform n^2 #                  operations.
+# Space complexity: O(n^2)  - for adjacency list
