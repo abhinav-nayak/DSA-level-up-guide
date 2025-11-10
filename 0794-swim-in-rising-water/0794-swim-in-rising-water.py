@@ -61,3 +61,5 @@ class Solution:
         
         return max_dist
 
+# Time complexity: O(n^2 log(n))
+# Space complexity: O(n^2)
