@@ -457,11 +457,13 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0684-redundant-connection](https://github.com/abhinav-nayak/level-up-guide/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/abhinav-nayak/level-up-guide/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/abhinav-nayak/level-up-guide/tree/master/1706-min-cost-to-connect-all-points) |
+| [0269-alien-dictionary](https://github.com/abhinav-nayak/level-up-guide/tree/master/0269-alien-dictionary) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhinav-nayak/level-up-guide/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinav-nayak/level-up-guide/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/abhinav-nayak/level-up-guide/tree/master/0269-alien-dictionary) |
 ## Shortest Path
 |  |
 | ------- |
