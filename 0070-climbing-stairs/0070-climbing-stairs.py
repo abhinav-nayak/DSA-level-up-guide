@@ -30,6 +30,7 @@ class Solution:
         (i) Memoization (Top-Down)
         (ii) Tabulation (Bottom-Up): Recall, for bottom up we need to store next 2 elements only.
         """
+
         # Method 1: Memoization (Recursion)
         """
         cache = [-1 for _ in range(n+1)]
@@ -47,6 +48,10 @@ class Solution:
             return cache[num]
 
         return dfs(0)
+
+# Time complexity: O(n) - if you visualize and remove repeated sub-problem from the recursion
+#                         tree above we are left with only n elements (i.e., height of the tree)
+# Space complexity: O(n) - recursion stack = height of tree
         """
 
         # Method 2: Tabulation (Iterative)
@@ -57,6 +62,5 @@ class Solution:
             two = temp
         return one
 
-# Time complexity: O(n) - if you visualize and remove repeated sub-problem from the recursion
-#                         tree above we are left with only n elements (i.e., height of the tree)
-# Space complexity: O(n) - recursion stack = height of tree
+# Time complexity: O(n)
+# Space complexity: O(1) as we need only 2 variable, not the entire array
