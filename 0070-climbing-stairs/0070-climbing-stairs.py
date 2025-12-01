@@ -31,6 +31,7 @@ class Solution:
         (ii) Tabulation (Bottom-Up): Recall, for bottom up we need to store next 2 elements only.
         """
         # Method 1: Memoization (Recursion)
+        """
         cache = [-1 for _ in range(n+1)]
 
         def dfs(num: int)->int:
@@ -46,6 +47,15 @@ class Solution:
             return cache[num]
 
         return dfs(0)
+        """
+
+        # Method 2: Tabulation (Iterative)
+        one, two = 1, 1
+        for _ in range(n-1):
+            temp = one
+            one = one + two
+            two = temp
+        return one
 
 # Time complexity: O(n) - if you visualize and remove repeated sub-problem from the recursion
 #                         tree above we are left with only n elements (i.e., height of the tree)
