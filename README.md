@@ -221,6 +221,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhinav-nayak/level-up-guide/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhinav-nayak/level-up-guide/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/abhinav-nayak/level-up-guide/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-nayak/level-up-guide/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/abhinav-nayak/level-up-guide/tree/master/0131-palindrome-partitioning) |
@@ -275,6 +276,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhinav-nayak/level-up-guide/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/abhinav-nayak/level-up-guide/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinav-nayak/level-up-guide/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/abhinav-nayak/level-up-guide/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
@@ -478,4 +480,8 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/abhinav-nayak/level-up-guide/tree/master/1706-min-cost-to-connect-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhinav-nayak/level-up-guide/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
