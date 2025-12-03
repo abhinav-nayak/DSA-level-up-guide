@@ -48,6 +48,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0621-task-scheduler](https://github.com/abhinav-nayak/level-up-guide/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/abhinav-nayak/level-up-guide/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/abhinav-nayak/level-up-guide/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhinav-nayak/level-up-guide/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/abhinav-nayak/level-up-guide/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/abhinav-nayak/level-up-guide/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/abhinav-nayak/level-up-guide/tree/master/0883-car-fleet) |
@@ -225,6 +226,7 @@ Step 2: Speak your mind. Communicate what you are thinking at all stages. Commun
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-nayak/level-up-guide/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhinav-nayak/level-up-guide/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/abhinav-nayak/level-up-guide/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhinav-nayak/level-up-guide/tree/master/0746-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhinav-nayak/level-up-guide/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
