@@ -18,10 +18,13 @@ class Solution:
             return first
         second = max(first, nums[1])
 
+        # Iterate all houses and calculate the total amount that can be robbed.
         for i in range(2, len(nums)):
             temp = max(first+nums[i], second)
             first = second
             second= temp
         
         return max(first, second)
-        
+
+# Time complexity: O(n)
+# Space complexity: O(1)
