@@ -40,4 +40,6 @@ class Solution:
                 y += 1
         
         return total_pali_substr
-        
+
+# Time complexity: O(n^2)
+# Space complexity: O(1)
